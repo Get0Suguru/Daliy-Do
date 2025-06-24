@@ -1,4 +1,4 @@
-✅ ToDo-App — Spring Boot + Thymeleaf + MySQL
+✅ Daily-Do-App — Spring Boot + Thymeleaf + MySQL
 A simple and clean Task Management Web App built using
 Spring Boot, Thymeleaf, and MySQL — for managing your daily tasks like a productivity ninja! 🥷📋
 
@@ -34,14 +34,14 @@ Edit
 
 🧪 How to Run Locally
 1️⃣ MySQL Setup
-Create a database named (for example): todo_db
+Create a database named (for example): Daily-Do_db
 
 Update the following in your application.properties:
 
 properties
 Copy
 Edit
-spring.datasource.url=jdbc:mysql://localhost:3306/todo_db
+spring.datasource.url=jdbc:mysql://localhost:3306/Daily-Do_db
 spring.datasource.username=YOUR_USERNAME
 spring.datasource.password=YOUR_PASSWORD
 spring.jpa.hibernate.ddl-auto=update
@@ -58,7 +58,7 @@ Visit: http://localhost:8080
 css
 Copy
 Edit
-todo-app/
+Daily-Do-app/
 ├── src/
 │   ├── main/
 │   │   ├── java/
