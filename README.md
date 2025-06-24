@@ -59,7 +59,9 @@ css
 Copy
 Edit
 Daily-Do-app/
-├── src/
+
+```
+├── src/ 
 │   ├── main/
 │   │   ├── java/
 │   │   └── resources/
@@ -68,3 +70,4 @@ Daily-Do-app/
 ├── screenshots/
 ├── pom.xml
 └── README.md
+```
